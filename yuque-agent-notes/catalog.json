@@ -1,0 +1,2314 @@
+{
+  "knowledgeBase": "https://www.yuque.com/u28128023/mk3u4m",
+  "documentCount": 286,
+  "groups": [
+    "面经",
+    "学习路线",
+    "01_基础知识",
+    "02_LLM基础",
+    "03_提示工程",
+    "04_Agent架构设计",
+    "05_RAG检索增强生成",
+    "06_工具调用",
+    "07_Agent框架",
+    "08_系统设计",
+    "09_评估与优化",
+    "10_安全与风险",
+    "11_场景题",
+    "12_开放性问题",
+    "13_Python工程实战",
+    "14_SKILL",
+    "15_Harness",
+    "16.Claudecode源码解析"
+  ],
+  "documents": [
+    {
+      "indent": 0,
+      "title": "🌟🌟🌟🌟观看视频方式",
+      "top": 0,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vgsxoghc4uhmr9l1",
+      "group": "_根目录"
+    },
+    {
+      "indent": 24,
+      "title": "阿里 Agent开发 校招 一面面试",
+      "top": 72,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lqoqpg93soag2bk0",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "虾皮 DataInfra Agent后端开发 一面面试",
+      "top": 108,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/prgexmwulac5oat9",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "腾讯 实习 Agent开发 一面面试",
+      "top": 144,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rf42el7rgxeqivf1",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "字节跳动 Agent开发 一面面试（抖音基础架构）",
+      "top": 180,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nga1wwg6u70onysf",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "字节跳动 AI开发 一面面试",
+      "top": 216,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rztl2yeslxk6n1xh",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "moka 二面面试",
+      "top": 252,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/okg6yiemlwxpsge9",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "Agent开发 一面面试题目整理",
+      "top": 288,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cc2ka8t651vk1umq",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "字节跳动 Agent开发 实习 一面面试",
+      "top": 324,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/al0txbgsbg92f8r8",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "字节 Agent 开发 一面面试",
+      "top": 360,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/sgzs61ldehg60iiu",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "百度 Agent 开发 一面面试",
+      "top": 396,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cg9e2eeydb0s92tp",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "字节 暑期 Agent 开发 一面面试",
+      "top": 432,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hguirtcmz06y47xp",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "AI Agent 应用开发 一面面试",
+      "top": 468,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nhasgip9fc5nub4i",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "蚂蚁 智能体与大模型应用实习 一面面试（Java方向）",
+      "top": 504,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rm2fc8yc1vqhwp6m",
+      "group": "面经"
+    },
+    {
+      "indent": 24,
+      "title": "速通版（1-2 周）",
+      "top": 576,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gxccufgk20rqn9ve",
+      "group": "学习路线"
+    },
+    {
+      "indent": 24,
+      "title": "标准版（1 个月）",
+      "top": 612,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mm164m3qvkvuzmrw",
+      "group": "学习路线"
+    },
+    {
+      "indent": 24,
+      "title": "完整版（2 个月+）",
+      "top": 648,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gte74z86ntwxvu00",
+      "group": "学习路线"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是 AI Agent？它与传统 AI 有什么区别？",
+      "top": 720,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ygby3gtq44ttezik",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "2. 什么是 Agentic AI？",
+      "top": 756,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wkzibshwo7ptg6f9",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "3. LLM 与 Agent 有什么区别？",
+      "top": 792,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qfheru1en1tvs6t9",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "4. 为什么从 LLM 应用转向 Agent？",
+      "top": 828,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/oppnsnn9t1iyz5e3",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "5. Agent 的核心组件有哪些？",
+      "top": 864,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zf84u4avbn9t36fu",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "6. Agent 和 Chatbot 的区别？",
+      "top": 900,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wxgvy59ax6m2uawm",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "7. 什么是自主 Agent？",
+      "top": 936,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rg3qpvstpl982whe",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "8. 什么是目标驱动型 Agent?",
+      "top": 972,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/olbvayl48oo1gxak",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "9. 什么是多步推理? Agent 如何实现?",
+      "top": 1008,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/crpzogrpvurwsbnn",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "10. 为什么 Agent 需要记忆?",
+      "top": 1044,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rq71m89ewkmtm0wc",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "11. 什么是推理引擎?",
+      "top": 1080,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/og6c6gpe01uil6z1",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "12. 工具使用在 Agent 中的作用?",
+      "top": 1116,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mo4v0xu62o7nnzu5",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "13. 什么是环境交互?",
+      "top": 1152,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ddk3nhunu0deo842",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "14. 感知与行动在 Agent 中如何体现?",
+      "top": 1188,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fny0x0af41kpwcdz",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "15. 单 Agent 与多 Agent 系统的区别?",
+      "top": 1224,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lt6sazbzoaim5xnc",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "16. Agent 的能力边界在哪里?",
+      "top": 1260,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/elt6u6imynimnzb7",
+      "group": "01_基础知识"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是大语言模型(LLM)?",
+      "top": 1332,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mtmb1bqv0dqt35ww",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "2. LLM 是如何训练的?",
+      "top": 1368,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nesdm1k341ygq9h6",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "3. 什么是 Token?",
+      "top": 1404,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ug13dd6goe44k3lh",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "4. 什么是下一个 Token 预测?",
+      "top": 1440,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ztfnp6kctox4u6d2",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "5. Transformer 的核心机制是什么?",
+      "top": 1476,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ivmdy5xoywogyw5h",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "6. 注意力机制(Attention)是怎么工作的?",
+      "top": 1512,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/yi6xz11vbp850mws",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "7. Temperature 参数对生成结果有什么影响?",
+      "top": 1548,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/muxrwvfi2i7p91uq",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "8. Top-K 和 Top-P 采样是什么?",
+      "top": 1584,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gqm7ho9a9v4ook8h",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "9. 什么是幻觉(Hallucination)?",
+      "top": 1620,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/amvmvkd3wb36ztec",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "10. LLM 为什么会产生幻觉?",
+      "top": 1656,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vy8atu2sto262m2m",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "11. 如何评估 LLM 的质量?",
+      "top": 1692,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ow0lrfkh1ibtaqwu",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "12. 开源模型 vs API 模型，如何选择?",
+      "top": 1728,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fpg3yiquf8wg33ag",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何为项目选择合适的 LLM?",
+      "top": 1764,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mfegaos1nrn2b32u",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "14. Prompt 对 LLM 输出有什么影响?",
+      "top": 1800,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ww2gdux4mpkofpxz",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "15. 什么是指令微调(Instruction Tuning)?",
+      "top": 1836,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ztvgmhr0vmr0ozhd",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "16. RLHF 在 LLM 中起什么作用?",
+      "top": 1872,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qayn82f1woxzm5w0",
+      "group": "02_LLM基础"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是提示词工程（Prompt Engineering）？",
+      "top": 1944,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/am51w1a5zp59qwth",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "2. Zero-Shot 和 Few-Shot 有什么区别？",
+      "top": 1980,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xmmeocuy2xwfls81",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "3. 什么是思维链（Chain of Thought）？",
+      "top": 2016,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rsb4o460hgqvdggv",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "4. 为什么 CoT 能提升推理能力？",
+      "top": 2052,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/uykmxnryka98biz2",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "5. 什么是自洽性（Self-Consistency）？",
+      "top": 2088,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/awrn71y7eczyzmql",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "6. 什么是 ReAct 提示策略？",
+      "top": 2124,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/bg9vi3hr2pl9go2s",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "7. 如何设计稳定可靠的 Prompt？",
+      "top": 2160,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/harnlq3361t45ezw",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "8. 什么是 Prompt 注入攻击？",
+      "top": 2196,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/etnxfhi944maqkiu",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "9. 如何防御 Prompt 注入？",
+      "top": 2232,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/sbgx99ifcgwgn641",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "10. 如何设计高质量的 Prompt 模板？",
+      "top": 2268,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zzmv909zc9v6s02x",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "11. System Prompt 和 User Prompt 有什么区别？",
+      "top": 2304,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gl27txs30z2m45wg",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "12. 如何控制 LLM 的输出格式？",
+      "top": 2340,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/shgt057g2k3onagl",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何提升 Prompt 的鲁棒性？",
+      "top": 2376,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xgz587sqitfr8ohh",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "14. 如何为多步骤任务设计 Prompt？",
+      "top": 2412,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vm2bpm2vok9h6lmy",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "15. Prompt 对 Agent 行为有什么影响？",
+      "top": 2448,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/swkb3wn5mup4h8ua",
+      "group": "03_提示工程"
+    },
+    {
+      "indent": 24,
+      "title": "1. 一个完整的 Agent 架构包含哪些部分？",
+      "top": 2520,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/npeyaagoo5fvixgv",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "2. Agent 的规划（Planning）机制是什么？",
+      "top": 2556,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/myodlpwark7krz8g",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "3. 什么是任务分解？Agent 如何做任务分解？",
+      "top": 2592,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nh9zwrm1n27x94om",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "4. Agent 的决策机制是什么？",
+      "top": 2628,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ogn1v5xbs3pg61vb",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "5. 工具调用和函数调用是什么？有什么区别？",
+      "top": 2664,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/abgk2s2grxnbbvze",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "6. Agent 如何调用外部 API？",
+      "top": 2700,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xi2td37zvmhog33g",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "7. 什么是执行循环（Execution Loop）？",
+      "top": 2736,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cpfqzf545tg0lef0",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "8. Agent 如何处理重试和错误恢复？",
+      "top": 2772,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/yi4i63rifu2gwg1a",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "9. Agent 的记忆系统有哪些设计模式？",
+      "top": 2808,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/sxxlacvc7ccexszg",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "10. 短期记忆和长期记忆在 Agent 中如何实现？",
+      "top": 2844,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/thg6dwpvapf1bsge",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "11. Agent 如何管理状态（State Management）？",
+      "top": 2880,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qtpims6g3gehcpvd",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "12. 什么是 Agent 的自我反思（Reflection）？",
+      "top": 2916,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ohpuwng20i2xqqih",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "13. 多 Agent 如何协作？",
+      "top": 2952,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ri4tr6pu6h51wvkt",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "14. Agent 如何进行任务优先级排序？",
+      "top": 2988,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ac8262vaigkdsugc",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "15. 如何设计一个通用 Agent 框架？",
+      "top": 3024,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cykyq2riptd6idap",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "16. 如何设计一个垂直领域 Agent？",
+      "top": 3060,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hk6a28bx9160dm3n",
+      "group": "04_Agent架构设计"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是 RAG（检索增强生成）？",
+      "top": 3132,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wawqefdhxkfd40ir",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "2. RAG 的工作流程是什么？",
+      "top": 3168,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wu0w9uz0zugklrcp",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "3. 为什么 Agent 需要 RAG？",
+      "top": 3204,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cqu7yko60nikrbqd",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "4. 什么是向量嵌入（Embedding）？",
+      "top": 3240,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mi3csy51xoapzp2a",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "5. 什么是文档分块（Chunking）？",
+      "top": 3276,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cg3k4l8rgwnqci1a",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "6. 如何选择合适的 Chunk Size？",
+      "top": 3312,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cnu2re850vav2m5a",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "7. 什么是向量数据库？",
+      "top": 3348,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ox79q7xltcwub0qb",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "8. 常见向量数据库有哪些？如何选择？",
+      "top": 3384,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wkbgr4b68hskfs78",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "9. 向量相似度搜索是如何实现的？",
+      "top": 3420,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/es9603hdgxa8uuro",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "10. 如何优化 RAG 的召回率？",
+      "top": 3456,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hg7d0hqhzgvqzvzi",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "11. 如何优化 RAG 的精确率？",
+      "top": 3492,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gs9ygo0z78tn0utd",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "12. Rerank 在 RAG 中起什么作用？",
+      "top": 3528,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lu2h4w9mve4rqw9o",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "13. RAG 如何解决长上下文问题？",
+      "top": 3564,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nt25pcuvl7q48ldt",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "14. RAG 如何减少幻觉？",
+      "top": 3600,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vzqko37iutvvz3q2",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "15. RAG 和微调如何选择？",
+      "top": 3636,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/slfuveox974f0nce",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "16. RAG 落地最难的问题是什么？",
+      "top": 3672,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cbkx83l8cb4m6beg",
+      "group": "05_RAG检索增强生成"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是工具使用（Tool Use）？",
+      "top": 3744,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/tl3q95nilg743rhf",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "2. Agent 如何进行工具选择？",
+      "top": 3780,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ts29dqghl3w0xc4m",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "3. 工具选择的底层机制是什么？",
+      "top": 3816,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ebpa2bbg24rkah5e",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "4. 如何设计好的工具 Schema？",
+      "top": 3852,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xellgo4g19vpd6u8",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "5. Function Calling 的设计原则是什么？",
+      "top": 3888,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/tkyq1ptnrlqidosi",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "6. Agent 如何调用数据库？",
+      "top": 3924,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ui6mcr6g34891h8c",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "7. Agent 如何调用搜索引擎？",
+      "top": 3960,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wgom0dcvvuh5xggf",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "8. Agent 如何执行代码？",
+      "top": 3996,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ng2kfnu19d4nqn6g",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "9. 如何协调多工具的调用？",
+      "top": 4032,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/aqdfxa7yikuppn6r",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "10. 如何避免 Agent 错误地调用工具？",
+      "top": 4068,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hc039fzsqlhvdyuy",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "11. 工具调用失败后 Agent 如何处理？",
+      "top": 4104,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dgmcavfpn8qf6vme",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "12. 如何验证工具调用结果的可靠性？",
+      "top": 4140,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ctqgvitpod444zq3",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何设计 Agent 的插件系统？",
+      "top": 4176,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zs5223y1c0nilaxv",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "14. 什么是 MCP（Model Context Protocol）？",
+      "top": 4212,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hsytn4rsz0559a2t",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "15. 如何控制工具的权限？",
+      "top": 4248,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ebdewivalgu8nyvt",
+      "group": "06_工具调用"
+    },
+    {
+      "indent": 24,
+      "title": "1. 你用过哪些 Agent 框架？如何评价？",
+      "top": 4320,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nxfv9ephrl273s35",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "2. LangChain 的核心组件是什么？",
+      "top": 4356,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cls0aprdwqp58xhq",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "3. LangGraph 和 LangChain 有什么区别？",
+      "top": 4392,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/pf5zflqgkoc131p3",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "4. AutoGPT 的核心思路是什么？",
+      "top": 4428,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lr9e07i1xsiditm3",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "5. ReAct Agent 是如何工作的？",
+      "top": 4464,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wzy2t681cmke20r2",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "6. 什么是 CrewAI？它的设计理念是什么？",
+      "top": 4500,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/viwut57popgiqcd9",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "7. OpenAI Assistants API 有哪些核心功能？",
+      "top": 4536,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/onccqrdzltr9keow",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "8. 如何选择适合项目的 Agent 框架？",
+      "top": 4572,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ua53co8awvx733xv",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "9. 用开源框架还是自研 Agent 框架？",
+      "top": 4608,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hs7glhx2adxv8zl4",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "10. 如何设计 Agent 的工作流？",
+      "top": 4644,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ty0wztq0g8bslstk",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "11. DAG 和循环流在 Agent 工作流中如何选择？",
+      "top": 4680,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dlhbsn1aoe7qenoe",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "12. 多 Agent 编排的核心挑战是什么？",
+      "top": 4716,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ezk08xbsq4yfxckk",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何构建一个 Agent Pipeline？",
+      "top": 4752,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hxao8wg5ql5vp7v0",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "14. 如何实现 Agent 的可观测性（Observability）？",
+      "top": 4788,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vh7ir2x59cfegmtc",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "15. Agent 系统如何调试？",
+      "top": 4824,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wapv9bwz95pkln16",
+      "group": "07_Agent框架"
+    },
+    {
+      "indent": 24,
+      "title": "1. 如何设计企业级 Agent 系统？",
+      "top": 4896,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nzbechww3cz2xcx5",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "2. 如何设计一个 AI 助理产品？",
+      "top": 4932,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dwl13g84k1u0ykst",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "3. 如何设计智能客服 Agent 系统？",
+      "top": 4968,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/up09rntqt1b820uy",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "4. 如何设计办公自动化 Agent？",
+      "top": 5004,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wrnngon7zhtadv2u",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "5. 如何设计一个代码生成 Agent？",
+      "top": 5040,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/kkks8eotse0xmpn9",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "6. Agent 系统如何扩展（Scale）以支持高并发？",
+      "top": 5076,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ir2wqwek1w5rovr6",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "7. Agent 系统中如何做并发控制？",
+      "top": 5112,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rrg0ga392n42yub9",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "8. 如何降低 Agent 系统的响应延迟？",
+      "top": 5148,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fuf6n6pqscggzed1",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "9. 如何控制 Agent 系统的 Token 成本？",
+      "top": 5184,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ob1moropfau2mo09",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "10. Agent 系统如何设计缓存策略？",
+      "top": 5220,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fyhx5smdysyxbked",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "11. Agent 系统的日志系统如何设计？",
+      "top": 5256,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gqq0wy4vgd4i53lu",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "12. Agent 系统中如何做 A-B 测试？",
+      "top": 5292,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/op2x64fg11rigaz6",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何设计 Agent 系统的高可用架构？",
+      "top": 5328,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ug5y8lm95tgq03dr",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "14. Agent 系统如何实现优雅降级？",
+      "top": 5364,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gxchdsbmxuni8wvd",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "15. 多模型 Fallback 策略如何设计？",
+      "top": 5400,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hgorev79igt0waxb",
+      "group": "08_系统设计"
+    },
+    {
+      "indent": 24,
+      "title": "1. 如何评估 Agent 的质量？",
+      "top": 5472,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hfcswkf5stafg0xy",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "2. 什么是离线评估?",
+      "top": 5508,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/aag3o2xsqpi5g1ig",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "3. 什么是在线评估?",
+      "top": 5544,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/bv1lccqui6t8xb2x",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "4. 如何设计 Agent 评估基准(Benchmark)?",
+      "top": 5580,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qegzui5l6bvoul5c",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "5. 什么是 AgentBench?",
+      "top": 5616,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cmk54d3gpak4seys",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "6. 如何评估 Agent 的推理能力?",
+      "top": 5652,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mxz20cs8kgmvofis",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "7. 如何评估 Agent 的工具使用能力?",
+      "top": 5688,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fx6rokr8i2tqqlzq",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "8. 如何评估 RAG 系统的质量?",
+      "top": 5724,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/kcsv5c6u4hl9trmz",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "9. 如何检测 Agent 的幻觉问题?",
+      "top": 5760,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cvlty5lplxnkl8sf",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "10. 什么是 LLM-as-Judge?如何使用?",
+      "top": 5796,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vihu730xrnxtg1vq",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "11. 如何优化 Agent 的整体性能?",
+      "top": 5832,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zdkn419ccmax3tub",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "12. 如何系统地优化 Prompt?",
+      "top": 5868,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/iqx9dbdcntmzd5di",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何通过模型选择来优化性能?",
+      "top": 5904,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lbgf8fo33mh73k3a",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "14. Agent 系统中如何设计反馈闭环?",
+      "top": 5940,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mz0l494sinsft9ui",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "15. Agent 系统如何实现持续学习?",
+      "top": 5976,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ds4ahra3r7zisgpc",
+      "group": "09_评估与优化"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是 Prompt 注入攻击?",
+      "top": 6048,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/glbb1qnyk0664uhr",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "2. Agent 系统中数据泄露的风险有哪些？",
+      "top": 6084,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cgnxssiypien2ooi",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "3. Agent 系统面临哪些安全风险?",
+      "top": 6120,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/goygp0qzq06mm3cd",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "4. 如何防止 Agent 的权限提升攻击?",
+      "top": 6156,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/wnlcbh5a1chy7tin",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "5. 如何限制 Agent 的工具权限?",
+      "top": 6192,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mddpfdh3113v5vrx",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "6. 多用户场景下如何隔离用户数据?",
+      "top": 6228,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lp4h94qmxokn83u1",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "7. 如何防止 Agent 被越狱(Jailbreak)?",
+      "top": 6264,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/uwf7wiw24r8atf4b",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "8. Agent 系统的审计日志应该记录什么?",
+      "top": 6300,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/bvvcg6lv4lh42lcg",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "9. 如何设计安全的代码执行沙箱?",
+      "top": 6336,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/et2fqqrz5we6rhqm",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "10. 如何防止恶意输入攻击 Agent?",
+      "top": 6372,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/kxcyps3etxgcoag2",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "11. 生产环境中如何加固 Agent 系统?",
+      "top": 6408,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/famy0oav2bpfynhm",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "12. Agent 系统中如何处理用户隐私数据?",
+      "top": 6444,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/tmfrnp9eip5ng5bu",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "13. 内容安全过滤如何实现?",
+      "top": 6480,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ddbdfuhieevnh4rc",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "14. 如何防止 Agent 输出敏感信息?",
+      "top": 6516,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/voo20u4cmp3fgkn9",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "15. 如何为 Agent 系统设计安全策略?",
+      "top": 6552,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/pbgmgrilds2o95k9",
+      "group": "10_安全与风险"
+    },
+    {
+      "indent": 24,
+      "title": "1. 如何设计一个报告撰写 Agent？",
+      "top": 6624,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qqradezmb9i9o6vu",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "2. 如何设计一个智能客服 Agent?",
+      "top": 6660,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xlk9zbnpdl148qzx",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "3. 如何设计一个金融分析 Agent?",
+      "top": 6696,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fgxwq80tenfs79k4",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "4. 如何设计一个代码生成 Agent?",
+      "top": 6732,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/smd5bagg026w8tg9",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "5. 如何设计一个多 Agent 协作系统?",
+      "top": 6768,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hb600xtgkacm5gak",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "6. Agent 在多目标冲突时如何决策?",
+      "top": 6804,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nf8f4kpoagqxqloc",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "7. 如何为 Agent 实现长期记忆?",
+      "top": 6840,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nt7em1g1fhztg5gh",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "8. Agent 输出错误时如何排查?",
+      "top": 6876,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qartqyxzkapicb5d",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "9. Agent 成本过高如何优化",
+      "top": 6912,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/eea79iung7sl0wzy",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "10. Agent 延迟过高如何处理",
+      "top": 6948,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zlvzqn349hpu0u3r",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "11. RAG 效果不好如何排查改进",
+      "top": 6984,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/pwxh8xeta5z1kmtg",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "12. 如何提高 Agent 系统的稳定性",
+      "top": 7020,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/puh9ir9uek1crav3",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何提升 Agent 的任务成功率",
+      "top": 7056,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zll94m0x0o5pwl9y",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "14. 如何让 Agent 具备自我纠错能力",
+      "top": 7092,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/nkifxozybnvfh81g",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "15. 如何设计生产级别的 Agent 系统",
+      "top": 7128,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dh1glxk09sup9078",
+      "group": "11_场景题"
+    },
+    {
+      "indent": 24,
+      "title": "1. Agent 的未来发展方向是什么",
+      "top": 7200,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ad394tx38udkig7e",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "2. Agent 会取代人类工作吗",
+      "top": 7236,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/na2qhvgazbklquz5",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "3. 多 Agent 社会是什么概念 有什么潜力",
+      "top": 7272,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xkyh4bb1n1mf5f5c",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "4. Agent 与 AGI 的关系？",
+      "top": 7308,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/eizmig1mg819gosx",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "5. 当前 Agent 技术的瓶颈在哪里？",
+      "top": 7344,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/otezzg9bezoxhzt9",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "6. 你做过最复杂的 Agent 项目是什么？（参考性回答）",
+      "top": 7380,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ful0u609esbwfmia",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "7. 如何评价主流 Agent 框架？",
+      "top": 7416,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/pizqwsbitgd1cst8",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "8. Agent 和传统工作流有什么本质区别？",
+      "top": 7452,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/uzz5io8krfl8wmgs",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "9. Agent 真的\"智能\"吗？",
+      "top": 7488,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zhfqtcqffgb7sgim",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "10. Agent 架构与传统软件架构的根本区别？",
+      "top": 7524,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/bx1681m9s7lm6xgi",
+      "group": "12_开放性问题"
+    },
+    {
+      "indent": 24,
+      "title": "1. Python 中 list、tuple、dict 的区别？在 Agent 中如何应用？",
+      "top": 7596,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xopgckwml4ishvgw",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "2. 深拷贝和浅拷贝的区别？Agent 状态管理中的影响？",
+      "top": 7632,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ds0ptvgeouseka33",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "3. Python 可变与不可变对象有什么区别？",
+      "top": 7668,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/srlg1sf69gst7e6c",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "4. *args 和 **kwargs 是什么？在工具定义中如何使用？",
+      "top": 7704,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xuxmuf4l0p3kgu9i",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "5. 什么是装饰器（Decorator）？如何用于 Agent 工具注册？",
+      "top": 7740,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xb6acs33iggcfeax",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "6. 什么是 asyncio？为什么 Agent 需要异步？",
+      "top": 7776,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/oyl0ugekz9bi4hc5",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "7. async-await 是如何工作的？",
+      "top": 7812,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dpqx53047wpsw8na",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "8. 如何并发调用多个 LLM API？（用 asyncio.gather）",
+      "top": 7848,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xtpzvblfkdtg6t0r",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "9. 什么是 GIL？对 Agent 并发有什么影响？",
+      "top": 7884,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/aed6oc9amd09ce3c",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "10. Pandas 基础：Agent 处理结构化数据的关键操作？",
+      "top": 7920,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xfdh20m2itkf1gia",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "11. 如何用 Python 处理大规模文本数据？",
+      "top": 7956,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zkbuuzkywqrc1an2",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "12. 如何实现批量处理以提升 Agent 吞吐量？",
+      "top": 7992,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zr18byhl8gdwgevv",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "13. 如何用 Python 实现余弦相似度？",
+      "top": 8028,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qgw7hieggql7xmmd",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "14. 如何用 Python 调用 LLM API？（OpenAI-Anthropic SDK）",
+      "top": 8064,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/iqmc19dvlqffqgpb",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "15. 如何实现 LLM 流式输出（Streaming）？",
+      "top": 8100,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vaaa425rn8mw9osk",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "16. 如何用 Python 实现一个简单的 Agent？（ReAct 风格）",
+      "top": 8136,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rec3dfl02fac5hta",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "17. 如何用 Python 实现工具调用（Function Calling）？",
+      "top": 8172,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/bkl41cy93im4sog1",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "18. 如何用 Python 构建一个完整的 RAG Pipeline？",
+      "top": 8208,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ggzkb4zonvl41gby",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "19. 如何用 Python 连接向量数据库（ChromaDB-Pinecone）？",
+      "top": 8244,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/kld1n0m0o200rg43",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "20. 如何用 Python 实现多轮对话管理？",
+      "top": 8280,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/til0rogdn7bv59ew",
+      "group": "13_Python工程实战"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是 Agent Skill？它解决 Agent 系统中的什么问题？",
+      "top": 8352,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ec2at83kgwfze89q",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "2. Skill 和 Prompt、System Prompt、Tool、MCP 的区别是什么？",
+      "top": 8388,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qxug38hm5rglbv8y",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "3. 为什么 Skill 通常被设计成目录加 SKILL.md 加可选资源？",
+      "top": 8424,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fs6ra8lotp9fdgdg",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "4. Skill 的 name 和 description 分别有什么作用？",
+      "top": 8460,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qqvtnlu3q4fuw4k9",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "5. 为什么 description 会影响 Skill 的自动触发效果？",
+      "top": 8496,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ag5fx8lc9bit3a3m",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "6. Skill 是如何被 Agent 发现和加载的？",
+      "top": 8532,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fd6ualgurp9fvora",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "7. 什么是 progressive disclosure？它为什么适合 Skill 机制？",
+      "top": 8568,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ylivhbs8vtgqssdq",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "8. Skill 的元数据、主说明、资源文件分别在什么时候进入上下文？",
+      "top": 8604,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ghe3bmwtatu15ca0",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "9. Skill 中的 references、scripts、assets 分别适合存放什么？",
+      "top": 8640,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gyahl0prwyckpquf",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "10. Skill 和传统插件有什么区别？",
+      "top": 8676,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/tafi0w9ckbzmaa7y",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "11. Skill 和长期记忆、项目规范、用户偏好之间如何划分边界？",
+      "top": 8712,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ssccopbdaul1moa8",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "12. 一个好的 Skill 应该是大而全还是小而专？",
+      "top": 8748,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vkq6mfussrxkqzmv",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "13. 什么样的任务适合抽象成 Skill？",
+      "top": 8784,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hsliqzmug9xvneil",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "14. Skill 设计时如何控制 Agent 的自由度？",
+      "top": 8820,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dg6g1l6t4rohcv7d",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "15. 什么时候应该用文字流程，什么时候应该用脚本或模板？",
+      "top": 8856,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dd2he10eiqurx50e",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "16. 多个 Skill 同时匹配时，Agent 应该如何选择或组合？",
+      "top": 8892,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/egshgwuz1xvb7nq2",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "17. Skill 可能带来哪些安全风险？",
+      "top": 8928,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/datgp2lvvguent8d",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "18. 为什么第三方 Skill 需要像软件依赖一样被审计？",
+      "top": 8964,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ved5fl95f8rz84z0",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "19. 如何评估一个 Skill 是否真的提升了 Agent 表现？",
+      "top": 9000,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/cyxa60heamitpgwa",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "20. Skill 标准化对未来 Agent 生态有什么意义？",
+      "top": 9036,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hs7brppxt3amtyxg",
+      "group": "14_SKILL"
+    },
+    {
+      "indent": 24,
+      "title": "1. 什么是 Agent Harness？它在 Agent 系统中处于什么位置？",
+      "top": 9108,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dewa87alz4ibg8r7",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "2. Harness 和 LLM、Agent Framework、Agent Runtime 的关系是什么？",
+      "top": 9144,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/oqrpwggraeht00z6",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "3. 为什么 Agent 的能力不只取决于模型，也取决于 Harness？",
+      "top": 9180,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/sv2t2z4uqhh83gp4",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "4. 一个基础 Agent Harness 通常包含哪些核心组件？",
+      "top": 9216,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/yftxoonhpeytm0hz",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "5. 什么是 Agent Loop？它的基本流程是什么？",
+      "top": 9252,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/zoua3ukblorilbio",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "6. Harness 如何决定 Agent 每一轮该看到什么上下文？",
+      "top": 9288,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/um4lni2l7vovrokn",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "7. Harness 如何管理工具调用？",
+      "top": 9324,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fpqepu78323vslqp",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "8. Tool schema 设计对 Agent 稳定性有什么影响？",
+      "top": 9360,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xnp4wvtakhc6ckw7",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "9. Harness 如何处理工具调用失败、超时和异常结果？",
+      "top": 9396,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/lqscv50nmktsgdt4",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "10. Harness 如何防止 Agent 无限循环？",
+      "top": 9432,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gy8ugm56y6c6wvmx",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "11. step limit、token limit、cost limit、time limit 分别解决什么问题？",
+      "top": 9468,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vlifii6ff07lno47",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "12. Harness 中的状态管理和记忆管理有什么区别？",
+      "top": 9504,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dfakv4g7ty0pqx43",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "13. 短期上下文、长期记忆、任务状态之间如何划分？",
+      "top": 9540,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qwqsvp0g0zn0oah7",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "14. Harness 为什么需要权限控制和审批机制？",
+      "top": 9576,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fr4w5da1uvpxl9sp",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "15. 什么是 sandbox execution？为什么生产 Agent 需要沙箱？",
+      "top": 9612,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qsiwau0q0iag2g0a",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "16. Harness 如何降低 prompt injection、越权操作和数据泄露风险？",
+      "top": 9648,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ckcb6h3y18kiol93",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "17. 单 Agent Harness 和多 Agent Harness 有什么区别？",
+      "top": 9684,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/hb00va0up4aqtcld",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "18. 多 Agent 编排中，Harness 需要解决哪些协调问题？",
+      "top": 9720,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/qbcldzmkl59y8hdy",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "19. 为什么 Agent 调试需要 trace，而不能只看最终答案？",
+      "top": 9756,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/txl3b1gq2pgbyx74",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "20. Evaluation Harness 和 Runtime Harness 有什么区别？",
+      "top": 9792,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gm8mk828ls1enkss",
+      "group": "15_Harness"
+    },
+    {
+      "indent": 24,
+      "title": "01. Claude Code 为什么不是终端套壳？",
+      "top": 9864,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/uq2g22rd956q4nfd",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "02. Claude Code 的 Agent Loop 如何持续推进任务？",
+      "top": 9900,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/rmt7dbtmp23ep2gq",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "03. QueryEngine 如何管理一段完整的 Agent 会话？",
+      "top": 9936,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gg2igd7ltgwieicg",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "04. 流式输出还没结束，Claude Code 为什么已经能开始执行工具？",
+      "top": 9972,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/goch6z4kqri1hcum",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "05. Claude Code 如何组装 System Prompt？",
+      "top": 10008,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mu8moq5btpo7thp4",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "06. CLAUDE.md 是如何进入模型上下文的？",
+      "top": 10044,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ankus3ypa3m92xc7",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "07. 用户消息、附件、文件状态和工具结果如何组成上下文？",
+      "top": 10080,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dqm1woprkdeavbl0",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "08. 上下文快满时，Claude Code 如何压缩历史并继续工作？",
+      "top": 10116,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/fgg1rw1z86oxkqsl",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "09. Claude Code 的 Tool 接口为什么不只是一个函数？",
+      "top": 10152,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/asikggse1ag5f8hv",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "10. 工具定义如何转换成模型能够调用的 Schema？",
+      "top": 10188,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ygnlbswq23cwwgos",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "11. tool_use 和 tool_result 为什么必须严格配对？",
+      "top": 10224,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ysr17gsz8knvitwq",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "12. Claude Code 为什么让只读工具并发、写操作串行？",
+      "top": 10260,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ll8vwfl4rxrh9i9v",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "13. MCP 和 ToolSearch 如何动态扩展 Agent 能力？",
+      "top": 10296,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mvtbwlnwa4ie07gs",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "14. 一次工具调用要经过哪些权限判断？",
+      "top": 10332,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gm1osrom48439sde",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "15. PreToolUse 和 PostToolUse Hooks 如何介入执行链？",
+      "top": 10368,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/bdf9k4gta0upofpy",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "16. 用户中断时，Claude Code 如何安全停止模型和工具？",
+      "top": 10404,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/koignwdil13h2t65",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "17. 模型报错、超时或过载时，Agent Loop 如何恢复？",
+      "top": 10440,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/yp7yndz2zshdu2g1",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "18. 文件快照、会话持久化和恢复机制是怎么做的？",
+      "top": 10476,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vm2ar0gxlt5tzgxu",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "19. AgentTool 如何启动一个子 Agent？",
+      "top": 10512,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/vt8qay4xnz7fk9y8",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "20. 主 Agent 和子 Agent 如何隔离上下文与权限？",
+      "top": 10548,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/pchc1ov4ez4imiz2",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "21. Plan Mode、Todo 和 Task 系统分别解决什么问题？",
+      "top": 10584,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/xy639b93wmfggtzu",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "22. Skills、Plugins 和 MCP 有什么区别，应该如何选择？",
+      "top": 10620,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/guvp377bt7whr4si",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "23. 如何根据 Claude Code 原理实现一个最小 Coding Agent？",
+      "top": 10656,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/coxzmlb6labyq83l",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "24. 从 Demo 到生产：Agent 的轮数、预算、日志、中断和状态应该如何设计？",
+      "top": 10692,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/dzxr0rng44dzmgm0",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "25. Claude Code CLI 如何做到快速启动？",
+      "top": 10728,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/okqf5clf3lsimd4s",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "26. 交互式 TUI 和 Headless 模式如何复用同一套 Agent Runtime？",
+      "top": 10764,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ai2e5azwky05uzhw",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "27. Claude Code 如何处理认证、模型选择和 Provider 配置？",
+      "top": 10800,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/gqo1k5kbh56o27p8",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "28. Plugin Marketplace 如何安装、启用和管理插件？",
+      "top": 10836,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/mc34gcpy34rm26i2",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "29. Claude Code 如何做遥测、性能分析和启动优化？",
+      "top": 10872,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/utexngsg0qtfv7cr",
+      "group": "16.Claudecode源码解析"
+    },
+    {
+      "indent": 24,
+      "title": "30. Claude Code 如何完成安装、更新、回滚和分发？",
+      "top": 10908,
+      "type": "doc",
+      "url": "https://www.yuque.com/u28128023/mk3u4m/ti5oylvw2nzltcun",
+      "group": "16.Claudecode源码解析"
+    }
+  ]
+}
